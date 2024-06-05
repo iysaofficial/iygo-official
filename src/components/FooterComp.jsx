@@ -31,7 +31,7 @@ const FooterComp = () => {
                     <ul className="box">
                         <li className="link_name">Office</li>
                         <li><a href="https://goo.gl/maps/9x18coXGCmSscKec6" target="_blank">Jl. Kemang, Pasir Putih, Kecamatan. Sawangan, Kota Depok, Jawa Barat 16519</a></li>
-                        <li><a href='mailto:youngscientist.iysa@gmail.com' target='_blank' className="">youngscientist.iysa@gmail.com</a></li>
+                        <li><a href='mailto:ny.olympiad1@gmail.com' target='_blank' className="">ny.olympiad1@gmail.com</a></li>
                         <li><a href='https://wa.me/+6281770914129' target='_blank'>+62817-7091-4129</a></li>
                     </ul>
                     <ul className="box input-box">

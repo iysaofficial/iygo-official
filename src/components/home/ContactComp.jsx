@@ -16,7 +16,7 @@ const ContactComp = () =>{
                             </li>
                             <li>
                                 <span><img src="./assets/images/icon/mail.png" alt="" /></span>
-                                <span>youngscientist.iysa@gmail.com</span>
+                                <span>ny.olympiad1@gmail.com</span>
                             </li>
                             <li>
                                 <span><img src="./assets/images/icon/call.png" alt="" /></span>
@@ -41,7 +41,9 @@ const ContactComp = () =>{
 
                 <div className="contactForm">
                     <h2>Send a Message</h2>
+                    <form action="https://formspree.io/f/mgegjprw" method="POST">
                     <div className="formBox">
+                        
                         <div className="inputBox w50">
                             <input type="text" name="name" required/>
                             <span>Name</span>
@@ -59,7 +61,9 @@ const ContactComp = () =>{
                         <div className="inputBox w100">
                             <input type="submit" value={"Send"}/>
                         </div>
+                        
                     </div>
+                    </form>
                 </div>
             </div>
         </section>
