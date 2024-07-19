@@ -19,7 +19,7 @@ const CategoryComp = () => {
                         </div>
                     </div>
                 </div>
-
+{/* 
                 <div className="category-card">
                     <div className="category-imgBx" data-text="University">
                         <img src="./assets/images/icon/University.png" alt="" />
@@ -28,10 +28,9 @@ const CategoryComp = () => {
                         <div>
                             <h3>University</h3>
                             <p>Join the university Geography Olympiad and show your skills</p>
-                            {/* <a href="#">Read More</a> */}
                         </div>
                     </div>
-                </div>
+                </div> */}
             </div>
             </div>
         </section>
