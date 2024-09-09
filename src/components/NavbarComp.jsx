@@ -46,7 +46,7 @@ const NavbarComp = () =>{
                     {/* <li className='menu-item'><a href="/#category-main-section">Category</a></li> */}
                     {/* <li className='menu-item'><a href="#">FAQ</a></li> */}
                     <li className='menu-item'><a href="#main-category-section">Category</a></li>
-                    {/* <li className='menu-item'><a href="" target='_blank'>Guide Book</a></li> */}
+                    <li className='menu-item'><a href="https://drive.google.com/file/d/1XrDQQnRKNuQNJiv6MrdMxmMi7ruYAKya/view?usp=sharing" target='_blank'>Guide Book</a></li>
                     <li className='menu-item'><a href="#contact-section">Contact</a></li>
                     {/* <li className='menu-item'><a href="https://drive.google.com/drive/folders/1l_bCazIZmdtOSUjAuBAgXTg7YEBTixPY" target='_blank'>Certificate Supervisor</a></li> */}
 
