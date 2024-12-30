@@ -46,14 +46,43 @@ const NavbarComp = () =>{
                     {/* <li className='menu-item'><a href="/#category-main-section">Category</a></li> */}
                     {/* <li className='menu-item'><a href="#">FAQ</a></li> */}
                     {/* <li className='menu-item'><a href="#main-category-section">Category</a></li> */}
+                    <li className='menu-item'><a href="https://drive.google.com/file/d/1XrDQQnRKNuQNJiv6MrdMxmMi7ruYAKya/view?usp=sharing" target='_blank'>Guide Book</a></li>
+                    <li className='menu-item'>
+                        <a className='sub-btn' href="#">Media Coverage <i className='fas fa-angle-down'></i></a>
+                        <ul className='sub-menu'>
+                            <li className='sub-item'><a href="https://drive.google.com/file/d/1NdOFy48a5igVT5h2umhzqrDZujjNRDW1/view?usp=sharing" target='_blank'>Press Release 2024</a></li>
+                        </ul>
+                    </li>
                     <li className='menu-item'>
                         <a className='sub-btn' href="#">List of Winner <i className='fas fa-angle-down'></i></a>
                         <ul className='sub-menu'>
-                            <li className='sub-item'><a href="https://drive.google.com/file/d/1JElLfMWf7-GEFW03ziyYfynPr7lf-WC9/view?usp=sharing" target='_blank'>IYGO Online 2024</a></li>
-                            <li className='sub-item'><a href="https://drive.google.com/file/d/1fFAxqs7Fha5D-kCnZaKGieVAf-AyADZv/view?usp=sharing" target='_blank'>IYGO Offline 2024</a></li>
+                            <li className='sub-item more'>
+                                <a className='more-btn' href="#">IYGO 2024 <i className='fas fa-angle-right'></i></a>
+                                <ul className='more-menu'>
+                                    <li className='more-item'><a href="https://drive.google.com/file/d/1JElLfMWf7-GEFW03ziyYfynPr7lf-WC9/view?usp=sharing" target='_blank'>IYGO Online 2024</a></li>
+                                    <li className='more-item'><a href="https://drive.google.com/file/d/1fFAxqs7Fha5D-kCnZaKGieVAf-AyADZv/view?usp=sharing" target='_blank'>IYGO Offline 2024</a></li>
+                                </ul>
+                            </li>
                         </ul>
                     </li>
-                    <li className='menu-item'><a href="https://drive.google.com/file/d/1XrDQQnRKNuQNJiv6MrdMxmMi7ruYAKya/view?usp=sharing" target='_blank'>Guide Book</a></li>
+                    {/* <li className='menu-item'>
+                        <a className='sub-btn' href="#">Curation <i className='fas fa-angle-down'></i></a>
+                        <ul className='sub-menu'>
+                            <li className='sub-item'><a href="https://drive.google.com/drive/folders/1XiQPYXktmf47cO6g1sZ9HfprPE6A-5Ok" target='_blank'>IYEO 2023</a></li>
+                        </ul>
+                    </li> */}
+                    <li className='menu-item'>
+                        <a className='sub-btn' href="#">Certificate Supervisor <i className='fas fa-angle-down'></i></a>
+                        <ul className='sub-menu'>
+                            <li className='sub-item'><a href="https://drive.google.com/drive/folders/1D5dDtmf8Se8DQa6kEXSbja24B9ZaSjzs?usp=sharing" target='_blank'>Certificate Supervisor 2024</a></li>
+                        </ul>
+                    </li>
+                    <li className='menu-item'>
+                        <a className='sub-btn' href="#">Gallery <i className='fas fa-angle-down'></i></a>
+                        <ul className='sub-menu'>
+                            <li className='sub-item'><a href="https://drive.google.com/drive/folders/1JROGpOT_Ow7kHwwfcr7tOs8eR0RdgDW0?usp=sharing " target='_blank'>2024</a></li>
+                        </ul>
+                    </li>
                     {/* <li className='menu-item'><a href="#contact-section">Contact</a></li> */}
                     {/* <li className='menu-item'><a href="https://drive.google.com/drive/folders/1l_bCazIZmdtOSUjAuBAgXTg7YEBTixPY" target='_blank'>Certificate Supervisor</a></li> */}
 

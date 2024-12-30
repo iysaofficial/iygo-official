@@ -98,7 +98,7 @@ header .navigation .menu{
 }
 
 .menu-item .sub-menu .sub-item:hover{
-    background: #003d7e;
+    background: #121317;
 }
 
 .menu-item .sub-menu .sub-item:hover:last-child:hover{
@@ -107,7 +107,7 @@ header .navigation .menu{
 
 .more .more-menu{
     position: absolute;
-    background: #02adee;
+    background: #686D76;
     list-style: none;
     top: 0;
     left: 100%;
@@ -134,7 +134,7 @@ header .navigation .menu{
 }
 
 .more .more-menu .more-item:hover{
-    background: #4080ef;
+    background: #121317;
 }
 
 .menu-btn{
@@ -184,7 +184,7 @@ header .navigation .menu{
         background: none;
     }
     .menu-item .sub-menu .sub-item a:hover{
-        color: #4080ef;
+        color: #121317;
         transition: 0.3s;
     }
     .more .more-menu{
