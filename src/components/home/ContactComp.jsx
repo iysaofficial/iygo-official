@@ -16,11 +16,11 @@ const ContactComp = () =>{
                             </li>
                             <li>
                                 <span><img src="./assets/images/icon/mail.png" alt="" /></span>
-                                <span>ny.olympiad1@gmail.com</span>
+                                <span>iysa.olympiad@gmail.com</span>
                             </li>
                             <li>
                                 <span><img src="./assets/images/icon/call.png" alt="" /></span>
-                                <span>+62817-7091-4129</span>
+                                <span>+6283870026877</span>
                             </li>
                         </ul>
                     </div>
