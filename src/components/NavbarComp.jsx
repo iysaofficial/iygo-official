@@ -47,15 +47,15 @@ const NavbarComp = () =>{
                     {/* <li className='menu-item'><a href="#">FAQ</a></li> */}
                     {/* <li className='menu-item'><a href="#main-category-section">Category</a></li> */}
                     <li className='menu-item'><a href="https://drive.google.com/file/d/1Z8Ll4w7Xqd6vYIGWw3kxafRBXKIpE68L/view?usp=sharing" target='_blank'>Guide Book</a></li>
-                    <li className='menu-item'>
+                    {/* <li className='menu-item'>
                         <a className='sub-btn' href="#">Media Coverage <i className='fas fa-angle-down'></i></a>
                         <ul className='sub-menu'>
                             <li className='sub-item'><a href="https://drive.google.com/file/d/1NdOFy48a5igVT5h2umhzqrDZujjNRDW1/view?usp=sharing" target='_blank'>Press Release 2024</a></li>
                         </ul>
-                    </li>
+                    </li> */}
                     <li className='menu-item'>
-                        <a className='sub-btn' href="#">List of Winner <i className='fas fa-angle-down'></i></a>
-                        <ul className='sub-menu'>
+                        <a className='sub-btn' href="/ListOfWinnerAllPage">List of Winner</a>
+                        {/* <ul className='sub-menu'>
                             <li className='sub-item more'>
                                 <a className='more-btn' href="#">IYGO 2024 <i className='fas fa-angle-right'></i></a>
                                 <ul className='more-menu'>
@@ -63,14 +63,14 @@ const NavbarComp = () =>{
                                     <li className='more-item'><a href="https://drive.google.com/file/d/1fFAxqs7Fha5D-kCnZaKGieVAf-AyADZv/view?usp=sharing" target='_blank'>IYGO Offline 2024</a></li>
                                 </ul>
                             </li>
-                        </ul>
+                        </ul> */}
                     </li>
-                    <li className='menu-item'>
+                    {/* <li className='menu-item'>
                         <a className='sub-btn' href="#">Curation <i className='fas fa-angle-down'></i></a>
                         <ul className='sub-menu'>
                             <li className='sub-item'><a href="https://drive.google.com/drive/folders/1uGmebygjQMWTht5b4JgNTJ4VokQ9wOdr?usp=sharing" target='_blank'>Curation 2024</a></li>
                         </ul>
-                    </li>
+                    </li> */}
                     {/* <li className='menu-item'>
                         <a className='sub-btn' href="#">Curation <i className='fas fa-angle-down'></i></a>
                         <ul className='sub-menu'>

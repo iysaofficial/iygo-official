@@ -7,6 +7,7 @@ import AboutComp from "../../components/home/AboutComp"
 import NewsletterComp from "../../components/home/NewsletterComp"
 import SocialMediaComp from "../../components/home/SocialMediaComp"
 import HeroComp from "../../components/home/HeroComp"
+import NewsComp from '../../components/home/NewsComp'
 
 const HomePage = () => {
     return(
@@ -21,6 +22,7 @@ const HomePage = () => {
         <ContactComp></ContactComp>
         <SocialMediaComp></SocialMediaComp>
         <NewsletterComp></NewsletterComp>
+        {/* <NewsComp></NewsComp> */}
         <LogoComp></LogoComp>  
         </>
     )
