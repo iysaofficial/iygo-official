@@ -20,7 +20,7 @@ const HeroComp = () =>{
                     </div>
                     <br />
                     <br />
-                    <a href="#" className="btn">Close Registration</a>
+                    <a href="#" className="btn">Coming Soon 2026</a>
             </div>
         </section>
         </>

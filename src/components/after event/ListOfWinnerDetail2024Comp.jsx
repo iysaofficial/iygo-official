@@ -61,17 +61,6 @@ const ListOfWinnerDetail2024Comp = () => {
                     </div>
                 </div>
 
-                {/* <div className="serviceBox">
-                    <div className="icon" style={{"--i":"#0A6847"}}>
-                        <i class="fa-solid fa-trophy"></i>
-                    </div>
-                    <div className="content">
-                        <h2>Daftar Pemenang Offline</h2>
-                        <br />
-                        <a href="#" className="low-detail-document-button">Download</a>
-                    </div>
-                </div> */}
-
                 <div className="serviceBox">
                     <div className="icon" style={{"--i":"#0A6847"}}>
                         <i class="fa-solid fa-bars"></i>
@@ -83,16 +72,6 @@ const ListOfWinnerDetail2024Comp = () => {
                     </div>
                 </div>
 
-                {/* <div className="serviceBox">
-                    <div className="icon" style={{"--i":"#0A6847"}}>
-                        <i class="fa-solid fa-certificate"></i>
-                    </div>
-                    <div className="content">
-                        <h2>Sertifikat Supervisor</h2>
-                        <br />
-                        <a href="#" className="low-detail-document-button">Download</a>
-                    </div>
-                </div> */}
                 <br />
                 <br />
                 <br />
